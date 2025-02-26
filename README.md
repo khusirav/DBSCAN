@@ -1,5 +1,5 @@
 # DBSCAN
-DBSCAN clustering algorithm realisation
+DBSCAN clustering algorithm realization
 
 ## Installation (Windows)
 
